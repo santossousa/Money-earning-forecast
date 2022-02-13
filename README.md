@@ -3,3 +3,4 @@
  
 
 ---
+Cost forecasting is a very important tactic used by companies to get information about future business conditions. It can be applied for various purposes such as sales, payment of personnel, investment, operating costs and expenses. To keep the budget in order and the organization's financial health in good shape, it is necessary to include a cost forecast routine in the budget, as the success of the company will depend on this. Therefore, cost forecasting should be part of your business routine so that it can maintain a stable financial position and use this to grow and expand its presence in the market. This application for this principle, based on research on this topic, is currently under development.
